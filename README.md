@@ -94,16 +94,3 @@ To reproduce the results of our best model which combines pedestrian intention a
 ```
 python train_test.py 2
 ```
-
-<a name="citation"></a>
-## Citation
-If you use our dataset and/or models, please cite:
-```
-@inproceedings{rasouli2017they,
-  title={PIE: A Large-Scale Dataset and Models for Pedestrian Intention Estimation and Trajectory Prediction},
-  author={Rasouli, Amir and Kotseruba, Iuliia and Kunic, Toni and Tsotsos, John K},
-  booktitle={ICCV},
-  year={2019}
-}
-
-```
